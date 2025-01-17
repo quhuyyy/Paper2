@@ -1,1 +1,4 @@
-# Paper2
+# Student's Academic Performance Prediction in The Programming Techniques Course By Using Machine Learning Methods
+link bài báo https://ieeexplore.ieee.org/abstract/document/10606021
+
+Learning Management System (LMS) plays an essential role in interactive learning, especially after the COVID-19 outbreak with a rapid shift from traditional classroom learning to online learning. LMS also facilitates the continuous collection and evaluation of students' performance. In this paper, we focus on predicting students' in-class performance (i.e., in-lab) from their homework performance (i.e., pre-lab) using the data collected from LMS with four experimental exercises for the programming techniques course. We also investigate several machine learning methods and hyperparameters for model selection. The results show that Random Forest has the best performance. This investigated cause-effect relationship between pre- and in-lab grades not only helps teachers with a better understanding of the curriculum but also students with their learning results.
